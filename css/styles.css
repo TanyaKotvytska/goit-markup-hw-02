@@ -1,5 +1,5 @@
 body {
-    font-family: 'Roboto', 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #434455;
     background-color: #ffffff;  
 }
@@ -10,7 +10,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -19,7 +19,7 @@ ul {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
@@ -34,6 +34,9 @@ ul {
 .menu-link:hover,
 .menu-link:focus {
     color: #404bbf;
+}
+.adres {
+    font-style: normal
 }
 .contacts {
     font-weight: 400;
@@ -53,17 +56,18 @@ ul {
 h1 {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
 }
 button {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
     cursor: pointer;
+    font-family: 'Roboto', sans-serif;
 }
-button:hover {
+button:hover,
+button:focus {
 background: #404bbf;
 }
 .button-text {
@@ -71,7 +75,7 @@ background: #404bbf;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #ffffff;
 }
 .second-sect .title {
     font-weight: 700;
@@ -102,7 +106,7 @@ background: #404bbf;
 .third-sect .title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -127,7 +131,7 @@ background: #404bbf;
 .fourth-sect .title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -162,7 +166,7 @@ background: #404bbf;
 .ground .text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.17;
     letter-spacing: 0.02em;
     color: #f4f4fd;
 }
