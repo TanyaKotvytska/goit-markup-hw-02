@@ -64,13 +64,13 @@ h1 {
 button {
     background: #4d5ae5;
     cursor: pointer;
-    font-family: 'Roboto', sans-serif;
 }
 button:hover,
 button:focus {
 background: #404bbf;
 }
 .button-text {
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -80,7 +80,7 @@ background: #404bbf;
 .second-sect .title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
@@ -158,7 +158,7 @@ background: #404bbf;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #f4f4fd;
