@@ -100,8 +100,8 @@ background: #404bbf;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.thirdsect {
-    background: #FFFFFF;
+.third-sect {
+    background: #f4f4fd;
 }
 .third-sect .title {
     font-weight: 700;
@@ -121,7 +121,7 @@ background: #404bbf;
     color: #2e2f42;
 }
 .photo {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
 }
 .photo-text {
     font-weight: 400;
