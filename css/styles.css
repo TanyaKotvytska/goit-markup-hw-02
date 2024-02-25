@@ -103,6 +103,9 @@ background: #404bbf;
 .third-sect {
     background: #f4f4fd;
 }
+.third-list {
+    background: #ffffff;
+}
 .third-sect .title {
     font-weight: 700;
     font-size: 36px;
